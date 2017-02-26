@@ -1,6 +1,7 @@
 /**
  * Created by andrewyli on 2/25/17.
  */
+
 public class Vector {
     double x;
     double y;

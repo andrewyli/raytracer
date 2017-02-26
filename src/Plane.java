@@ -1,6 +1,7 @@
 /**
  * Created by andrewyli on 2/25/17.
  */
+
 public class Plane extends SceneObject {
     // described by perpendicular vector
     float xdir;
@@ -8,7 +9,7 @@ public class Plane extends SceneObject {
     float zdir;
 
 
-    Vector ray_intersects(Ray r) {
-
+    Vector rayIntersects(Ray r) {
+        return new Vector();
     }
 }
